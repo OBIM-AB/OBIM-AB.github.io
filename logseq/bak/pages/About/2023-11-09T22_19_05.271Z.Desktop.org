@@ -1,0 +1,9 @@
+:PROPERTIES:
+:public: true
+:icon: 🎙️
+:END:
+
+* Mobile
+| code |     phone |
+|  +46 | 700380798 |
+|      |           |

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:public: true
+:icon: 📧
+:title: contact us
+:updated: <2023-11-09 Thu 23:04>
+:END:

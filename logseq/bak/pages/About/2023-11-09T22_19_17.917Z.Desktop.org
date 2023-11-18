@@ -1,0 +1,16 @@
+:PROPERTIES:
+:public: true
+:icon: 
+:END:
+
+#+public: true
+#+icon: 🎙️
+#+title: About
+#+updated: <2023-11-09 Thu 23:13>
+
+
+
+* Mobile
+| code |     phone |
+|  +46 | 700380798 |
+|      |           |

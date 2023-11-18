@@ -1,0 +1,4 @@
+:PROPERTIES:
+:public: true
+:icon: ☀️
+:END:

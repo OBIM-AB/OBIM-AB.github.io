@@ -1,0 +1,32 @@
+@import url('https://playerofgames.github.io/logseq-mia-theme/mia_mono.css');
+@import url('https://playerofgames.github.io/logseq-mia-theme/mia_duo.css');
+@import url('https://playerofgames.github.io/logseq-mia-theme/mia_quattro.css');
+@import url('https://playerofgames.github.io/logseq-mia-theme/mia_sans.css');
+@import url('https://playerofgames.github.io/logseq-mia-theme/mia_sans_compact.css');
+@import url('https://playerofgames.github.io/logseq-mia-theme/mia_serif.css');
+@import url('https://playerofgames.github.io/logseq-mia-theme/mia_serif_compact.css');
+
+
+/* @import url('https://cdn.jsdelivr.net/gh/sansui233/logseq-bonofix-theme/custom.css') */
+
+/*hide linked and unlinked references*/
+/* .references.mt-6.flex-1.flex-row{display: none !important;} */
+
+/*hide help button*/
+.cp__sidebar-help-btn { display: none !important;}
+
+
+#root>div {
+    /* background-color: #e5e5f7; */
+    opacity: 1;
+    /* background-image: linear-gradient(#444cf7 1px, transparent 1px), linear-gradient(to right, #444cf7 1px, #e5e5f7 1px); */
+    --ls-background-image: url("../assets/image_1699546170571_0.png");
+    background-size: 20px 20px;
+     /* --ls-primary-background-color: #55aa55; */
+    --ls-secondary-background-color: #5555aa;
+}
+
+/* .white-theme, .dark-theme { */
+/*   --ct-highlight-color: rgb(255, 105, 0); /\* Highlight underline color *\/ */
+/*   --ls-block-properties-background-color: rgb(255, 105, 0); */
+/* } */

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:public: true
+:icon: ☀️
+:END:
+[[../assets/image_1699715237480_0.png]]
+#+public: true
+#+icon: ☀️
+#+title: OBIM AB
+#+updated: <2023-11-09 Thu 23:13>
+
+*
+* Welcome to OBIM Knowledge Graph
++ Contents are
++ coming soon
++ …
+* [[About]]
+* [[Contact Us]]
