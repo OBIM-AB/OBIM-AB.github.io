@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["obim ab" "contact us" "about"]
+ :favorites ["obim" "obim ab" "contact us" "about"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -413,7 +413,7 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :default-home {:page "OBIM AB"}
+ :default-home {:page "OBIM"}
  :feature/enable-whiteboards? true
  :feature/enable-flashcards? false
  :ui/show-brackets? false

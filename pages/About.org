@@ -1,9 +1,13 @@
-#+public: tru
+:PROPERTIES:
+:public: tru
+:icon: 🎙️
+:END:
+#+public: true
 #+icon: 🎙️
 #+title: About
-#+updated: <2023-11-09 Thu 23:13>
+#+updated: <2023-11-18>
 
-* Mobile
-| code |     phone |
-|  +46 | 700380798 |
-|      |           |
+* Mobile:
+** 0046708173701
+* Email:
+** info@obim.io
