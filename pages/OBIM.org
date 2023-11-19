@@ -5,7 +5,7 @@
 :END:
 #+public: true
 #+icon: ☀️
-#+title: OBIM AB
+#+title: OBIM
 #+updated: <2023-11-09 Thu 23:13>
 
 * [[../assets/image_1700348122101_0.png]]

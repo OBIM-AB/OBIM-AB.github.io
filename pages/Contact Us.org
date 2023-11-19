@@ -1,12 +1,13 @@
+:PROPERTIES:
+:public: true
+:icon: 📧
+:END:
 #+public: true
 #+icon: 📧
 #+title: Contact Us
 #+updated: <2023-11-09 Thu 23:13>
 
-* Mobile
-* Email
-- info@obim.io
-* Social Media
-- Linkedin
-- X
-- Facebook
+* Mobile:
+** 0046708173701
+* Email:
+** info@obim.io
