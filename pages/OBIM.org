@@ -1,17 +1,11 @@
 :PROPERTIES:
 :public: true
-:icon: ☀️
+:icon: ☀
 :title: OBIM
 :END:
-#+public: true
-#+icon: ☀️
-#+title: OBIM
-#+updated: <2023-11-09 Thu 23:13>
+#+updated: <2023-11-27 Thu 23:13>
 
-* [[../assets/image_1700348122101_0.png]]
-* Welcome to OBIM Knowledge Graph
-+ Contents are
-+ coming soon
-+ …
-* [[About]]
-* [[Contact Us]]
+* BIM Knowledge Graph
+This is a static website.
+Feedback could be made @ the [[https://github.com/obimrepos/bimkg.github.io][repo]] itself.
+

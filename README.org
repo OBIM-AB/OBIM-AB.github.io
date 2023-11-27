@@ -1,1 +1,46 @@
-This repo host obim webiste
+* Vision
+- The goal is to marry the main perspectives of digital transformation in AEC: BIM, Digital Twin, PLM and digital thread.
+- The project is a collaborative action research to maintain an evergreen KG which keeps synsezithing new produced knowledge and experiences in the industry.
+- acts as a base of a measurement model.
+- The model purpose is to abstract concpets identify the basic constructs of human interactions.
+- The purpose is to reduce cognitive loads of the terminology and generalize/abstract  them into the most fundemantal constructs of human interacions.
+
+* Methodology
+** Action Reseach
+relations in the graph could be supported by research
+** Use Cases
+relations in the graph could be validated by experience
+
+* Fundemantal assumption
+A digital representation that is available and meaningful for humans and machine which facilitate interaction.
+
+* Ontological Overview
+** business layer (Human interaction)
+*** Collaboration
+*** Communication
+*** Understanding
+*** Visualization
+** information layer (The Representaion Syntax)
+*** Data model
+*** Data Structure
+*** Information model
+*** One source of truth
+** Technology layer (The Representation availability)
+*** Time
+*** Space
+** Standards layer (The Representation Semantics)
+*** semantics of the digital representation
+*** Quality of the digital representation
+
+* Collaboration Tools
+** Logseq
+** Git
+** Zotero
+
+* Collaboration format
+** Orgmode
+
+* Acronyms
+- PLM :: Product Lifecycle Management
+- BIM :: Building Information Modeling
+- KG :: Knowledge Graph
